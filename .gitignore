@@ -4,6 +4,7 @@ __pycache__/
 data/
 assets/
 *.pdf
+!docs/AI_Special_City_GTM_Execution_Plan.pdf
 .env
 .env.*
 
