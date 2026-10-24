@@ -1,0 +1,8 @@
+[
+  {"id":"smartstore","label":"네이버 스마트스토어","queries":["site:smartstore.naver.com 수제 공방 자체제작","site:smartstore.naver.com 소규모 브랜드 클래스"]},
+  {"id":"instagram","label":"Instagram","queries":["site:instagram.com 공방 스마트스토어 주문제작","site:instagram.com 자체제작 브랜드 클래스"]},
+  {"id":"wadiz","label":"와디즈 메이커","queries":["site:wadiz.kr/web/maker 자체제작 브랜드","site:wadiz.kr/web/campaign 공방"]},
+  {"id":"tumblbug","label":"텀블벅 창작자","queries":["site:tumblbug.com 공방 자체제작","site:tumblbug.com 창작자 브랜드"]},
+  {"id":"exhibitions","label":"박람회 참가사","queries":["site:k-handmade.com 참가업체 브랜드","site:seoul.designfestival.co.kr participation brand"]},
+  {"id":"fanfandaero","label":"판판대로·소담상회","queries":["site:fanfandaero.kr 브랜드 제품","site:fanfandaero.kr 소담상회"]}
+]
