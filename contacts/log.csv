@@ -1,0 +1,3 @@
+date,id,channel,basis,basis_ref,segment,action,result
+2026-10-27,C001,fair,consent,명함 교환(대면) — 증빙 docs/evidence/C001_card_masked.jpg,투자사(VC) 초기투자팀 팀장 — 소개 경로,대면 미팅·서비스 소개,답장(고객사 소개 1곳 → C002)
+2026-10-27,C002,referral,request,C001 소개로 고객사가 진단 요청(대표 구두),오프라인 리테일(무인 과일편의점)·온라인 월 매출 소규모,착수 전 분석 제안서 작성·전달,상담 약속(일정 확정 대기)

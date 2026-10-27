@@ -8,3 +8,5 @@ assets/
 .env
 .env.*
 
+contacts/private/
+content/letters/
