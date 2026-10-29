@@ -16,5 +16,6 @@
 - 실제 6개 몰을 직접 운영하며 만든 자동화 도구와 절차를 그대로 씁니다.
 
 **바로 신청**: [크몽 — 자체상품 브랜드 채널별 손익 진단과 오픈마켓 런칭](https://kmong.com/gig/847365) (크몽 안에서 문의·결제)
+또는 [ai-specialtime.com/commerce](https://ai-specialtime.com/commerce/) — 상품 1개 손익 미리보기 무료 신청
 
 **연락처**: AI특별시 · ax@ai-specialtime.com · ai-specialtime.com
